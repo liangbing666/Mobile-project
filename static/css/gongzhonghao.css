@@ -1,0 +1,22 @@
+.zhezhao{
+	height: 100%;
+	position:absolute;
+	top:0;
+	left:0;
+	background:rgb(0, 0, 0);
+	z-index:10;
+	opacity:0.15;
+}
+.kuang{
+	width:940px;
+	height:600px;
+	background:#FFF;
+	position:fixed;
+	left:295px;
+	top:80px;
+	z-index:1111;
+	/*display:none;*/
+	opacity: 1;
+	border: 3px solid #C2C2C2;
+	box-shadow: 0 0 15px #525252;
+}
